@@ -258,7 +258,7 @@ export default {
   }
 }
 .n-layout-header {
-  padding: 15px 24px;
+  padding: 10.5px 24px;
   font-size: 16px;
   font-weight: bold;
   display: flex;
